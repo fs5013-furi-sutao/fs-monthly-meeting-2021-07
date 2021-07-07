@@ -58,7 +58,7 @@ const PasswordProtect = () => {
 
     return (
         <div style={styles.wrapper}>
-            <h1 style={{ color: '#3D3D4D', margin: '2em 0' }}>FS 7月度定例会 認証ページ</h1>
+            <h1 style={{ color: '#3D3D4D', margin: '2em 0' }}>FS 7月度定例会案内 認証ページ</h1>
             <h4 style={{ color: '#6C6C80' }}>全体 LINE で展開されている<br />パスワードを入力してください</h4>
 
             <form onSubmit={onSubmit} style={{ width: '320px' }}>

@@ -52,7 +52,7 @@ module.exports = {
     {
       resolve: '@mkitio/gatsby-theme-password-protect',
       options: {
-        password: 'time4action', // delete or `undefined` to disable password protection
+        password: 'rotten7apple', // delete or `undefined` to disable password protection
         partialMatching: true,
         pagePaths: ['/fs-monthly-meeting-2021-07']
       }

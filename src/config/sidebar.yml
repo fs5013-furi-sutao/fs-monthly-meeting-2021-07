@@ -1,20 +1,22 @@
 # Sidebar navigation
 
-- label: 'Introduction'
+- label: '2021年7月度定例会のご案内'
   link: '/'
-- label: 'Getting started'
-  link: '/getting-started'
-- label: Usage
+- label: 'Video'
   items:
-    - label: 'Creating docs'
-      link: '/usage/creating-docs'
-    - label: 'Navigation'
-      link: '/usage/navigation'
-    - label: 'Shadowing'
-      link: '/usage/shadowing'
-- label: More
+    - label: '2021年度7月度 本社定例会（録画）'
+      link: '/video/recorded-monthly-meeting'
+    - label: '目標振り返りワーク説明'
+      link: '/video/work-description-of-reflection'
+    - label: 'まだ目標設定を行っていない方へ'
+      link: '/video/one-one-movie-by-ceo'
+- label: '要提出内容'
   items:
-    - label: FAQ
-      link: /faq
-    - label: 'Github'
-      link: https://github.com/rocketseat/gatsby-themes
+    - label: '定例会に参加できた方へ'
+      link: '/to-be-submission/able-to-attend'
+    - label: '定例会に参加できなかった方へ'
+      link: '/to-be-submission/could-not-attend'
+- label: '後日ワークショップ'
+  items:
+    - label: '後日ワークショップスケジュール'
+      link: '/workshop-at-later/schedule'
