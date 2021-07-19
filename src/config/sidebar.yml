@@ -16,7 +16,7 @@
       link: '/to-be-submission/able-to-attend'
     - label: '定例会に参加できなかった方へ'
       link: '/to-be-submission/could-not-attend'
-- label: '後日ワークショップ'
+- label: '後日グループディスカッション'
   items:
     - label: '後日グループディスカッションスケジュール'
       link: '/group-discussion-at-later/schedule'
