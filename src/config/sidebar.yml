@@ -18,5 +18,5 @@
       link: '/to-be-submission/could-not-attend'
 - label: '後日ワークショップ'
   items:
-    - label: '後日ワークショップスケジュール'
-      link: '/workshop-at-later/schedule'
+    - label: '後日グループディスカッションスケジュール'
+      link: '/group-discussion-at-later/schedule'
